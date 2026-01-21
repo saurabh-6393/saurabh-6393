@@ -1,33 +1,34 @@
 # 👋 Hi, I'm Saurabh Prajapati  
 
-🎓 **Master of Computer Applications (MCA) Student**  
-💻 Aspiring Software Developer | Web Enthusiast  
+🎓 MCA Student | 💻 Aspiring Software Developer | 🌐 Web Technology Enthusiast  
 
-I’m a motivated MCA student who enjoys learning, building, and improving through hands-on coding.  
-Currently focused on strengthening my core programming skills and modern web technologies.
+I am a dedicated **Master of Computer Applications (MCA)** student with a strong interest in software development.  
+I enjoy learning new technologies, building real-world projects, and continuously improving my coding skills.
 
 ---
 
-## 🚀 What I'm Doing
-- 🔭 Building simple and practical **web projects**
-- 🌱 Learning **Java, Data Structures & Algorithms, and React**
-- 👯 Looking to collaborate on **beginner-friendly projects**
-- ⚡ Consistently working on improving **problem-solving & coding skills**
+## 🚀 About Me
+- 🔭 Working on **hands-on web development projects**
+- 🌱 Currently learning **Java, Data Structures & Algorithms, and React**
+- 👯 Open to collaborating on **beginner-friendly & learning-focused projects**
+- ⚡ Passionate about **daily learning and skill improvement**
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-prajapati-a0b560246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-prajapati-a0b560246/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming & Web
+### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -47,7 +48,15 @@ Currently focused on strengthening my core programming skills and modern web tec
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I’m Aiming For
+- Build **strong problem-solving skills**
+- Contribute to **open-source projects**
+- Secure an **entry-level software developer role**
+- Grow as a **full-stack developer**
+
+---
+
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-6393&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=saurabh-6393&theme=dark&hide_border=false)
